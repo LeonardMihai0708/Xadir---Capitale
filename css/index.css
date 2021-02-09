@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+body{ 
+	font-family: 'Alatsi', sans-serif;
+	background-color: #4F4F4A;
+	transition: 1s;
+	word-break: break-word;
+	width: 100%;
+	height: 100%;
+
+}
+html{
+	scroll-behavior: smooth;
+	word-break: break-word;
+}
+
+.jumbotron{
+	background-color: #333333;
+	color: #f8fcff;
+}
+
+.jumbotron h1{
+	font-size: 50px;
+	font-family: 'Alatsi', sans-serif;
+	float: right;
+}
+
+.jumbotron h2{
+	font-size: 30px;
+	font-family: 'Alatsi', sans-serif;
+}
+.jumbotron p{
+	font-size: 18px;
+	font-family: 'Alatsi', sans-serif;
+}
+
+
+
+
+
+
+#content{
+	word-break: break-all;
+	margin-left: 5%;
+	width: 90%;
+	background-color: black;
+	opacity: 0.5;
+	padding: 2%;
+	z-index: 0;
+	word-break: break-word;
+}
+
+#content h2{
+	opacity: 1;
+	color: white;
+	margin-left: 4%;
+	font-family: 'Montserrat', sans-serif;
+}
+
+#content p{
+	opacity: 1;
+	color: white;
+	margin-left: 2%;
+	font-family: 'Montserrat', sans-serif;
+}
+#content h5{
+	opacity: 1;
+	color: white;
+	margin-left: 7%;
+	font-size: 14px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+#content h4{
+	opacity: 1;
+	color: white;
+	margin-left: 5%;
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

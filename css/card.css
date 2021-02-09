@@ -1,0 +1,83 @@
+/*card*/
+
+.card{
+	background-color: transparent;
+	border-top: none;
+}
+
+.card h1{
+	font-family:'Oswald';
+	font-size:25px;
+	color:#333333;
+	text-transform:uppercase;
+}
+
+.card h2{
+	font-family:'Oswald';
+	font-size:22px;
+	color:#999;
+}
+.card a{
+	font-size: 36px;
+}
+
+.card .cardcontent3{
+	background:#e9ecef;
+	padding:10px;
+
+}
+.card .cardSocialMedia{
+		text-align:center;
+		padding:10px;
+}
+.card p{
+		text-align:center;
+		padding:10px;
+		size:20px;
+		color:black;
+}
+.card .cardSocialMedia .fab{
+		padding:10px;
+		margin:5px;
+		
+}
+.card .cardSocialMedia .fab:hover{
+	color:#B6A6FF;
+	transition: 0.4s;
+	
+}
+.card .cardSocialMedia .fa-facebook-f{
+	padding-left:13px;
+	padding-right:13px;
+	
+}
+.card .cardSocialMedia .fa-twitter{
+	color:#105578;
+
+}
+.card .cardSocialMedia .fa-youtube{
+	color:red;
+
+}
+.card .cardSocialMedia .fa-instagram{
+	color:#cc00ff;
+	padding-left:11px;
+	padding-right:11px;
+}
+/*card*/
+
+/* 
+
+
+<div class="contact_tfyi" align="center" id="5">
+		<div class="card">
+			<div class="cardSocialMedia">
+			<a href="https://twitter.com/leonard_mihai" target="_blank"><i class="fab fa-twitter"></i></a>
+			<a href="https://www.facebook.com/leonard.mihai.16" target="_blank"><i class="fab fa-facebook-f"></i></a>
+			<a href="https://www.youtube.com/channel/UC2JftajPmjKQi2cBxnyx3TA?view_as=subscriber" target="_blank"><i class="fab fa-youtube"></i></a>
+			<a href="https://www.instagram.com/leonard_mihai0807/" target="_blank"><i class="fab fa-instagram"></i></a>
+			</div>
+		</div>
+</div>
+
+*/

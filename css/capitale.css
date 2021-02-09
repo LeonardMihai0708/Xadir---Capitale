@@ -1,0 +1,80 @@
+.flags{
+	height: 100%;
+	width: 100%;
+}
+
+.job_employee {
+	width: auto;
+	height: auto;
+	position: relative;
+	left:0;
+	display: inline-block;
+	word-break: break-word;
+	margin-bottom: 5%;
+	z-index: 0;
+}
+
+.image {
+	opacity: 1;
+	display: block;
+	height: 125px;
+	width: 150px;
+	transition: 0.15s ease;
+	backface-visibility: hidden;
+}
+
+.middle {
+	transition: 0.5s ease;
+	opacity: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%)
+}
+
+.job_employee:hover .image {
+	webkit-filter: blur(6px);
+	filter: blur(10px);
+}
+
+.job_employee:hover .middle {
+	 opacity: 1;
+}
+.job_employee h1{
+	color:black;
+	font-size: 16px;
+}
+.text a{
+	background-color: #4CAF50;
+	color: white;
+	font-size: 12px;
+	padding: auto;
+	text-decoration: none;
+}
+.text_center_download h1{
+	color:white;
+	font-size:30px;
+	font-family: "montserrat";
+}
+.text a:hover{
+	text-decoration: none;
+	background-color: #4CAF50;
+	font-size: 12px;
+}
+
+
+
+
+
+
+
+
+.Europa h1{
+	color: #f4f5e0;
+	background-color: #747677;
+	font-size: 26px;
+	height: 100%;
+	width: auto;
+}
+

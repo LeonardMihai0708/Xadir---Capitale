@@ -1,0 +1,29 @@
+
+.contact_tfyi{
+	background-color: #333333;
+}
+html{
+	scroll-behavior: smooth;
+	word-break: break-word;
+}
+.parallax{
+	margin-top: 5%;
+}
+.content_email{
+	color: white;
+	height: auto;
+	width: 50%;
+}
+.btn-default{
+	background-color: #3C6180;
+}
+.btn-default:hover{
+	background-color: #627280;
+}
+
+.fa-backspace{
+	font-size: 32px;
+	padding: 1%;
+}
+.content_email{
+}

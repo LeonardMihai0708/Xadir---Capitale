@@ -1,0 +1,26 @@
+body,html{
+	background:#e9ecef;
+	height:100%;
+	
+}
+.error-group h1{
+	text-align: center;
+	font-family: 'Spicy Rice', cursive;
+	font-size: 100px;
+}
+.error-group h2{
+	text-align: center;
+	font-family: 'Spicy Rice', cursive;
+	font-size: 72px;
+}
+.error-group a{
+	text-align: center;
+	font-family: 'Spicy Rice', cursive;
+	font-size: 40px;
+}
+.error-group h3{
+	text-align: center;
+	font-family: 'Spicy Rice', cursive;
+	font-size: 24px;
+}
+
